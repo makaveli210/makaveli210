@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @makaveli210
-- 👀 I’m interested in optimized debian based distros, pop, linux lite, diet pi, wine, vm's, windows 10 LTSC.
+- 👀 I’m interested in lightweight linux distros, clear, pop, linux lite, diet pi, wine, vm's, windows 10 LTSC.
 - 🌱 I’m currently learning video editing, proxies, vpns
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
